@@ -1,6 +1,13 @@
 # CRUD de Usuários com autenticação
 
 Acesse a versão live do projeto [este link](http://ec2-52-14-239-7.us-east-2.compute.amazonaws.com:3000).
+Para ter acesso como admin, autenticar com:  
+```
+email: usuário1@email.com.br  
+senha: <senha padrão do db.json fornecido>  
+```
+
+Todos os registros estão como no `db.json` original.
 
 ## Instruções
 
